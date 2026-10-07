@@ -1,0 +1,43 @@
+# Threshold Labs
+
+> Threshold Labs builds infrastructure for AI systems that operate in real computing environments.
+
+Threshold Labs focuses on the execution infrastructure, control layers, and developer environments needed for AI agents to move from suggesting work to safely performing work in real computing environments.
+
+## Product
+
+JoltCode is the home of Jolt, the first product from Threshold Labs.
+
+Jolt is an execution layer between AI coding agents and developers' compute. It connects coding agents to real local and cloud development environments so they can inspect projects, work with files, run commands, execute tests, and perform development tasks while the developer retains control over the environment.
+
+Jolt is currently in controlled early access.
+
+- Threshold Labs: https://thresholdlabs.pages.dev/
+- JoltCode: https://joltcode.pages.dev/
+- Jolt early access: https://joltcode.pages.dev/early-access
+- Jolt documentation: https://joltcode.pages.dev/docs
+- Jolt downloads: https://joltcode.pages.dev/download
+
+## Principles
+
+Threshold Labs builds around these principles:
+
+- Developer control
+- Secure execution
+- Real development environments
+- Provider independence
+- Observable agent actions
+- Open integration architecture
+
+## Founders
+
+- Aliyu Ibrahim — Founder, Threshold Labs
+- Yunusa Ibrahim — Co-founder, Threshold Labs
+
+## Official organization
+
+- GitHub: https://github.com/JoltTechnologies
+
+## Status
+
+Threshold Labs and Jolt are early-stage. Jolt capabilities are actively being built and tested, and product details may change during early access.
